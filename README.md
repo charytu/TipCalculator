@@ -12,5 +12,6 @@ Completed user stories:
 
 
 Walkthrough of all user stories:
+
 ![Video Walkthrough](https://github.com/charytu/TipCalculator/blob/master/tipcal.gif/)
 
